@@ -4,7 +4,7 @@ int main ()
 {
 	for(;;)
 	{
-	printf ("test\n");
+	printf ("Nice\n");
 	}
 	return 0;
 }
