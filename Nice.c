@@ -3,7 +3,7 @@
 
 int main (int argc, char *argv[])
 {
-	char** to_print; 
+	char* to_print; 
 	if (argc < 2)
 	{
 		to_print = "Nice\n";
