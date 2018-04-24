@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 if [ "$1" == "--verbose" ] || [ "$1" == "-v" ]; then
 	gcc Nice.c -o Nice
 else
