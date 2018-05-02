@@ -27,7 +27,7 @@ int main (int argc, char *argv[])
 	}
 	for(;;)
 	{
-	printf (to_print);
+		printf (to_print);
 	}
 	return 0;
 }
